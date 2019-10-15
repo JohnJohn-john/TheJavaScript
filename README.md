@@ -1,2 +1,2 @@
 # TheJavaScript
-It's the JavaSript of a three-part code
+This is the JavaSript code of a web page for hiring medieval mercenary-warrior pigs.
